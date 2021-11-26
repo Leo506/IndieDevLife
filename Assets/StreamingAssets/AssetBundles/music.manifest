@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 964822051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9254fd9100b2b40ad5dd97fe299fb3ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Music/Yeap - Invaders.ogg
+- Assets/Music/Yeap - Bye, my money.ogg
+- Assets/Music/Yeap - Funny song.ogg
+- Assets/Music/Yeap - Sparkles.ogg
+- Assets/Music/Yeap - Get a Job!.ogg
+Dependencies: []

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: eu_buttons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 31e8cc1fff3a7d8448d7ae98ff35a30f, type: 3}
+    - {fileID: 2800000, guid: 63711ff8eb38a9b4192297e6f85cf823, type: 3}
+    - {fileID: 2800000, guid: be4d07c2a8f7ca84bb91961ce4c01e0f, type: 3}
+    - {fileID: 2800000, guid: ff48aa0018ce0774bb107d33a47543b3, type: 3}
+    - {fileID: 2800000, guid: 658be19e4de44654ca4cffa2374d9ab9, type: 3}
+    - {fileID: 2800000, guid: 529ac8f792d1f754389a2887ed9bf60d, type: 3}
+    - {fileID: 2800000, guid: a0a043cb15b026e4b9f9cc8af9404263, type: 3}
+    - {fileID: 2800000, guid: 64f0a239e85e0f847afaba279dfdafe6, type: 3}
+    - {fileID: 2800000, guid: 656d2815ddcda914f822747823057441, type: 3}
+    - {fileID: 2800000, guid: b4510e9d7704a0a4f9e1ad2950cfbae3, type: 3}
+    - {fileID: 2800000, guid: 3328302946d36f544a9faf2589a4e372, type: 3}
+    - {fileID: 2800000, guid: 01e57a7473e8aa54da903bdb8e35e297, type: 3}
+    - {fileID: 2800000, guid: 1238d56093b13ee4a89cb8b16e885120, type: 3}
+    - {fileID: 2800000, guid: 23c6c64bd6ee4104b854dd06dd485a27, type: 3}
+    - {fileID: 2800000, guid: ba6f273b902f39f49a6532ab79085083, type: 3}
+    - {fileID: 2800000, guid: 7d868c9aa63cc8743bf922c41d9f4d22, type: 3}
+    - {fileID: 2800000, guid: f1729e9c6bb92c240b547412c82871b3, type: 3}
+    - {fileID: 2800000, guid: 4bcf4d68652e3dc42aa8596d597be44d, type: 3}
+    - {fileID: 2800000, guid: 4ca2f4b49efb87e4d9307bd1a38af1f6, type: 3}
+    - {fileID: 2800000, guid: b7eeea28936a7344e84aed8902937750, type: 3}
+    - {fileID: 2800000, guid: 2be68645bbd4cb74da0bb97ee3f01f84, type: 3}
+    totalSpriteSurfaceArea: 9778250
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ff48aa0018ce0774bb107d33a47543b3, type: 3}
+  - {fileID: 21300000, guid: 1238d56093b13ee4a89cb8b16e885120, type: 3}
+  - {fileID: 21300000, guid: be4d07c2a8f7ca84bb91961ce4c01e0f, type: 3}
+  - {fileID: 21300000, guid: 01e57a7473e8aa54da903bdb8e35e297, type: 3}
+  - {fileID: 21300000, guid: 4ca2f4b49efb87e4d9307bd1a38af1f6, type: 3}
+  - {fileID: 21300000, guid: 656d2815ddcda914f822747823057441, type: 3}
+  - {fileID: 21300000, guid: 2be68645bbd4cb74da0bb97ee3f01f84, type: 3}
+  - {fileID: 21300000, guid: 529ac8f792d1f754389a2887ed9bf60d, type: 3}
+  - {fileID: 21300000, guid: b7eeea28936a7344e84aed8902937750, type: 3}
+  - {fileID: 21300000, guid: 4bcf4d68652e3dc42aa8596d597be44d, type: 3}
+  - {fileID: 21300000, guid: 63711ff8eb38a9b4192297e6f85cf823, type: 3}
+  - {fileID: 21300000, guid: 3328302946d36f544a9faf2589a4e372, type: 3}
+  - {fileID: 21300000, guid: 64f0a239e85e0f847afaba279dfdafe6, type: 3}
+  - {fileID: 21300000, guid: 7d868c9aa63cc8743bf922c41d9f4d22, type: 3}
+  - {fileID: 21300000, guid: ba6f273b902f39f49a6532ab79085083, type: 3}
+  - {fileID: 21300000, guid: 23c6c64bd6ee4104b854dd06dd485a27, type: 3}
+  - {fileID: 21300000, guid: a0a043cb15b026e4b9f9cc8af9404263, type: 3}
+  - {fileID: 21300000, guid: f1729e9c6bb92c240b547412c82871b3, type: 3}
+  - {fileID: 21300000, guid: b4510e9d7704a0a4f9e1ad2950cfbae3, type: 3}
+  - {fileID: 21300000, guid: 658be19e4de44654ca4cffa2374d9ab9, type: 3}
+  - {fileID: 21300000, guid: 31e8cc1fff3a7d8448d7ae98ff35a30f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - create_eu
+  - receive_eu
+  - buy_eu
+  - publish_eu
+  - take_courses_eu
+  - on_eu
+  - skip_eu
+  - lang_eu
+  - work_eu
+  - spin_eu
+  - back_eu
+  - play_eu
+  - ok_eu
+  - settings_eu
+  - refuse_eu
+  - receive_x2_eu
+  - off_eu
+  - sleep_eu
+  - payment_eu
+  - eat_eu
+  - accept_eu
+  m_Tag: eu_buttons
+  m_IsVariant: 0

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boostsIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4d925ac1e2489ef4aa199c16c29c2df6, type: 3}
+    - {fileID: 2800000, guid: d3e428f49d7dbf74eab4b51a8ef8ceaa, type: 3}
+    - {fileID: 2800000, guid: 7e3ca2cc586c42946a99bac7f087d864, type: 3}
+    - {fileID: 2800000, guid: d31db01d00e80cb4b918774fc819e4a0, type: 3}
+    totalSpriteSurfaceArea: 265490
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4d925ac1e2489ef4aa199c16c29c2df6, type: 3}
+  - {fileID: 21300000, guid: d3e428f49d7dbf74eab4b51a8ef8ceaa, type: 3}
+  - {fileID: 21300000, guid: 7e3ca2cc586c42946a99bac7f087d864, type: 3}
+  - {fileID: 21300000, guid: d31db01d00e80cb4b918774fc819e4a0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1
+  - 2
+  - 3
+  - 4
+  m_Tag: boostsIcons
+  m_IsVariant: 0

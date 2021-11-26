@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ru_sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f8a30bcb4d3573548b0d916f30d174dc, type: 3}
+    - {fileID: 2800000, guid: a72b2465df9a3bc4a91086e2550832a6, type: 3}
+    - {fileID: 2800000, guid: 2ed24219bcfe713438ee674df372a51a, type: 3}
+    - {fileID: 2800000, guid: cac01658a50bea14dac26cb03062d6a4, type: 3}
+    - {fileID: 2800000, guid: 8ac6b30613657f94382b0d77a84677fa, type: 3}
+    - {fileID: 2800000, guid: 2379a7c9f2e117341bb46889b718f009, type: 3}
+    - {fileID: 2800000, guid: b3484578c34444147a9eb4907f2dcdfb, type: 3}
+    - {fileID: 2800000, guid: 944af876e20f0e94abe88fd5b7d7ce14, type: 3}
+    - {fileID: 2800000, guid: 6781788dca5a52c45ba4ceab01ec33f1, type: 3}
+    - {fileID: 2800000, guid: 70852054fb286f04b8a004a1ac9d6bae, type: 3}
+    - {fileID: 2800000, guid: 79647dc4264425848bbfb514feb66774, type: 3}
+    - {fileID: 2800000, guid: 037407e1e588f2140ad034278503c93e, type: 3}
+    - {fileID: 2800000, guid: f7cbc183385f83c4a9a8d8e0bd179537, type: 3}
+    - {fileID: 2800000, guid: 5c2fb7a2a60f8824181b4736568db02f, type: 3}
+    - {fileID: 2800000, guid: 24ebf04127cff054ca31ae5a7af1ffd4, type: 3}
+    - {fileID: 2800000, guid: e4e9cbcefaf599f4db607fe470c056d5, type: 3}
+    - {fileID: 2800000, guid: 07af8e1382ead544589c640d3cd7ecc9, type: 3}
+    - {fileID: 2800000, guid: 8703e17f77136814bb7e87cd92e9bdb9, type: 3}
+    - {fileID: 2800000, guid: 996018434681ee0419e460a85f206df2, type: 3}
+    - {fileID: 2800000, guid: 1d5066ec2925f2e4cbffa5f33e3c7c44, type: 3}
+    - {fileID: 2800000, guid: 235500a2f14d99144b72307a3cefd13e, type: 3}
+    - {fileID: 2800000, guid: 3610e970e4f9369428cfc82e058fe9ec, type: 3}
+    - {fileID: 2800000, guid: 4d82a9d7a40b0244fb218d56fba60bc9, type: 3}
+    - {fileID: 2800000, guid: 5c8e021b18552b44ea0d83c6572065e6, type: 3}
+    - {fileID: 2800000, guid: 5b1ccd8472e67bf4cb3cd1c5ed69fd89, type: 3}
+    - {fileID: 2800000, guid: 270202acc5132bf4cba3311f84ef2607, type: 3}
+    - {fileID: 2800000, guid: 1c7da26624a2abe46b1220ad2e6d1988, type: 3}
+    - {fileID: 2800000, guid: 0bf55419a3ec7444cb065c8717fc6da3, type: 3}
+    - {fileID: 2800000, guid: e2bb531e83b779a4698a10dbb026cdbc, type: 3}
+    - {fileID: 2800000, guid: dba56b637d101994394ecfd2cf851e61, type: 3}
+    - {fileID: 2800000, guid: 72b59b1a64dcda94b80426fbed97f757, type: 3}
+    - {fileID: 2800000, guid: 024dd1b151b7929498ddb33f763190e0, type: 3}
+    totalSpriteSurfaceArea: 57976625
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3610e970e4f9369428cfc82e058fe9ec, type: 3}
+  - {fileID: 21300000, guid: 24ebf04127cff054ca31ae5a7af1ffd4, type: 3}
+  - {fileID: 21300000, guid: 024dd1b151b7929498ddb33f763190e0, type: 3}
+  - {fileID: 21300000, guid: 037407e1e588f2140ad034278503c93e, type: 3}
+  - {fileID: 21300000, guid: 235500a2f14d99144b72307a3cefd13e, type: 3}
+  - {fileID: 21300000, guid: 5c2fb7a2a60f8824181b4736568db02f, type: 3}
+  - {fileID: 21300000, guid: 07af8e1382ead544589c640d3cd7ecc9, type: 3}
+  - {fileID: 21300000, guid: 996018434681ee0419e460a85f206df2, type: 3}
+  - {fileID: 21300000, guid: dba56b637d101994394ecfd2cf851e61, type: 3}
+  - {fileID: 21300000, guid: f7cbc183385f83c4a9a8d8e0bd179537, type: 3}
+  - {fileID: 21300000, guid: 70852054fb286f04b8a004a1ac9d6bae, type: 3}
+  - {fileID: 21300000, guid: 5b1ccd8472e67bf4cb3cd1c5ed69fd89, type: 3}
+  - {fileID: 21300000, guid: 79647dc4264425848bbfb514feb66774, type: 3}
+  - {fileID: 21300000, guid: a72b2465df9a3bc4a91086e2550832a6, type: 3}
+  - {fileID: 21300000, guid: 8ac6b30613657f94382b0d77a84677fa, type: 3}
+  - {fileID: 21300000, guid: 1c7da26624a2abe46b1220ad2e6d1988, type: 3}
+  - {fileID: 21300000, guid: 944af876e20f0e94abe88fd5b7d7ce14, type: 3}
+  - {fileID: 21300000, guid: 4d82a9d7a40b0244fb218d56fba60bc9, type: 3}
+  - {fileID: 21300000, guid: cac01658a50bea14dac26cb03062d6a4, type: 3}
+  - {fileID: 21300000, guid: b3484578c34444147a9eb4907f2dcdfb, type: 3}
+  - {fileID: 21300000, guid: 2ed24219bcfe713438ee674df372a51a, type: 3}
+  - {fileID: 21300000, guid: 0bf55419a3ec7444cb065c8717fc6da3, type: 3}
+  - {fileID: 21300000, guid: 2379a7c9f2e117341bb46889b718f009, type: 3}
+  - {fileID: 21300000, guid: 72b59b1a64dcda94b80426fbed97f757, type: 3}
+  - {fileID: 21300000, guid: 5c8e021b18552b44ea0d83c6572065e6, type: 3}
+  - {fileID: 21300000, guid: f8a30bcb4d3573548b0d916f30d174dc, type: 3}
+  - {fileID: 21300000, guid: 270202acc5132bf4cba3311f84ef2607, type: 3}
+  - {fileID: 21300000, guid: 1d5066ec2925f2e4cbffa5f33e3c7c44, type: 3}
+  - {fileID: 21300000, guid: 6781788dca5a52c45ba4ceab01ec33f1, type: 3}
+  - {fileID: 21300000, guid: e2bb531e83b779a4698a10dbb026cdbc, type: 3}
+  - {fileID: 21300000, guid: e4e9cbcefaf599f4db607fe470c056d5, type: 3}
+  - {fileID: 21300000, guid: 8703e17f77136814bb7e87cd92e9bdb9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - space_ru
+  - progress_received_ru
+  - welcom_ru
+  - letter_ru
+  - sleep_ru
+  - progress2_ru
+  - rent_ru
+  - setting_ru
+  - deathr_ru
+  - progress1_ru
+  - game_zone_ru
+  - loader_ru
+  - health_indicators_ru
+  - buy_diskette_ru
+  - create game_ru
+  - room_ru
+  - figde_ru
+  - statistic_ru
+  - courses_ru
+  - exp_ru
+  - cafe_ru
+  - street1_ru
+  - daily_prize_ru
+  - Khacaton_ru
+  - klick_ru
+  - befpre_minigame_ru
+  - memory_ru
+  - side_job_ru
+  - game_over_ru
+  - street2_ru
+  - publish_game_ru
+  - roulette_ru
+  m_Tag: ru_sprites
+  m_IsVariant: 0

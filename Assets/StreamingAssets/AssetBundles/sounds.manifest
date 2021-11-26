@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 216401434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59685e077171968445eb4c92af6e813b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/MiscEating.wav
+- Assets/Sounds/GamesMemoryCardClick.wav
+- Assets/Sounds/JobMoverTake.wav
+- Assets/Sounds/GamesTimer.wav
+- Assets/Sounds/DoorOpen.wav
+- Assets/Sounds/MiscBuy.wav
+- Assets/Sounds/JobTimer.wav
+- Assets/Sounds/ResultFail.wav
+- Assets/Sounds/DialogHide.wav
+- Assets/Sounds/MiscHungry.wav
+- Assets/Sounds/MiscBedUp.wav
+- Assets/Sounds/FridgeClose.wav
+- Assets/Sounds/GamesMemoryNewHand.wav
+- Assets/Sounds/GamesAsteroidsLoss.wav
+- Assets/Sounds/JobMoverPut2.wav
+- Assets/Sounds/ClickLevelUp.wav
+- Assets/Sounds/JobMoverPut1.wav
+- Assets/Sounds/JobMoverPut3.wav
+- Assets/Sounds/ResultBad.wav
+- Assets/Sounds/ResultSuccess.wav
+- Assets/Sounds/Keyboard1.wav
+- Assets/Sounds/DialogShow.wav
+- Assets/Sounds/FridgeOpen.wav
+- Assets/Sounds/MiscPhone.wav
+- Assets/Sounds/Menu1B.wav
+- Assets/Sounds/PC_On.wav
+- Assets/Sounds/DoorClose.wav
+- Assets/Sounds/GamesAsteroidsShot.wav
+- Assets/Sounds/MiscDevelopment.wav
+- Assets/Sounds/MiscGoodmorning.wav
+- Assets/Sounds/PC_Off.wav
+- Assets/Sounds/MiscGoodnight.wav
+- Assets/Sounds/KeyboardENTER.wav
+- Assets/Sounds/ResultGood.wav
+- Assets/Sounds/Keyboard2.wav
+- Assets/Sounds/GamesAsteroidsHit.wav
+- Assets/Sounds/Menu1A.wav
+- Assets/Sounds/MiscBedDown.wav
+- Assets/Sounds/JobFinished.wav
+- Assets/Sounds/ClickNormal.wav
+Dependencies: []
